@@ -7,5 +7,4 @@ function setup(){
 }
 function draw(){
    GetLink.display();
-   console.log(link);
 }
